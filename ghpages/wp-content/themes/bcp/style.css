@@ -204,7 +204,7 @@ h3 {
 #sidebar ul li {
     margin: 0 0 0 -25px;
     padding: 0 0 0 0; 
-    list-style: url(bullet.gif);
+    list-style: url(/wp-content/themes/bcp/bullet.gif);
 }
 
 #sidebar li:hover {
@@ -423,8 +423,8 @@ ul.nostyle a {font-weight: bold;}
 .error {height: 170px; }
 
 
-ul.todo li { list-style-image: url(./todo.gif); margin-right: 2em; margin-left: 2em; }
-ul.todo li.done  { list-style-image: url(./done.gif); }
+ul.todo li { list-style-image: url(/wp-content/themes/bcp/todo.gif); margin-right: 2em; margin-left: 2em; }
+ul.todo li.done  { list-style-image: url(/wp-content/themes/bcp/done.gif); }
 
 
     
